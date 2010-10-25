@@ -1,7 +1,5 @@
 <?php
 /* jaccard.php
- * Jaccard similarity coefficient calculator v1.0
- * by Jeb Ware (jeb@jebware.com)
  *
  * To use, pass two file names into the jaccard_similarity function and it will
  * return a jaccard similarity coefficient, between 0 and 1, inclusive.
